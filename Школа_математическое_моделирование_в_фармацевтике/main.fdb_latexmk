@@ -1,8 +1,10 @@
 # Fdb version 4
+["pdflatex"] 1761392411.76961 "/home/oleg/Documents/GitHub/resume/Школа_математическое_моделирование_в_фармацевтике/main.tex" "main.pdf" "main" 1761392412.45336 2
   "/home/oleg/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1734952816.27977 3308 eee81981029f67083258db36df06e523 ""
   "/home/oleg/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1734952623.44645 3312 d199be9bd555944e2403193d58a0256a ""
   "/home/oleg/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1734952616.22311 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/home/oleg/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1734952622.05978 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
+  "/home/oleg/Documents/GitHub/resume/Школа_математическое_моделирование_в_фармацевтике/main.tex" 1761392411.46813 4628 f8a4aa80486181e652a9a392136b7551 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1755987285 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1755987285 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1755987285 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -223,6 +225,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757438390 5314015 121189813f76d7128640ad3b5c67a025 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1757438320 2088904 52dda5b8c8dcab2c10eb2c80f5f26594 ""
+  "main.aux" 1761392412.3948 914 46cd678aa87f7a6e6f7c3bdf800a4b45 "pdflatex"
+  "main.out" 1761392412.3948 753 fc9adf82fac506ff82cb142ee5beeeda "pdflatex"
+  "main.tex" 1761392411.46813 4628 f8a4aa80486181e652a9a392136b7551 ""
+  "preamble.tex" 1761392411.46813 1422 3d93999b21d424e9b2cc51b0f5dc162b ""
   (generated)
   "main.aux"
   "main.log"
